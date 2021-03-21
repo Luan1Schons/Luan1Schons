@@ -2,7 +2,7 @@
 
 > Sou Desenvolvedor Web Full Stack
 
-🔭 Atualmente trabalho no setor de TI de uma Empresa chamada Colorisa.
+🔭 Atualmente trabalho no setor de TI como Gerente de Vendas.
 
 💬 "Comece onde você está, use o que você tem e faça o que você pode."
 
