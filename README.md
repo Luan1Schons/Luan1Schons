@@ -26,4 +26,4 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luan1schons1&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luan1schons&show_icons=true)
