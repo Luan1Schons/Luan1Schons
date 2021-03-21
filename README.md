@@ -1,10 +1,10 @@
-## 💜 Olá, meu nome é <strong>{seu nome}!</strong>
+## 💜 Olá, meu nome é <strong>Luan Schons Griebler</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
+> Sou Desenvolvedor Web Full Stack
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 Atualmente trabalho no setor de TI de uma Empresa chamada Colorisa.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬 "Comece onde você está, use o que você tem e faça o que você pode."
 
 ----
 
