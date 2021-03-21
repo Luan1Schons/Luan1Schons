@@ -24,6 +24,7 @@
 <code><img height="32" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Office"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Photoshop-2B579A?style=for-the-badge&logo=photoshop&logoColor=white" alt="Photoshop"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/></code>
 
 ---
