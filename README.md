@@ -2,7 +2,7 @@
 
 > Sou Desenvolvedor Web Full Stack
 
-🔭 Atualmente trabalho no setor de TI como Gerente de Vendas.
+🔭 Atualmente trabalho com T.I de forma autônoma
 
 💬 "Comece onde você está, use o que você tem e faça o que você pode."
 
