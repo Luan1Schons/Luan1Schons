@@ -2,7 +2,7 @@
 
 > Sou Desenvolvedor Web Full Stack
 
-🔭 Atualmente trabalho com T.I de forma autônoma
+🔭 Atualmente trabalho com T.I
 
 💬 "Comece onde você está, use o que você tem e faça o que você pode."
 
