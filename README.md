@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Luan Schons Griebler</strong>
+## Olá, meu nome é <strong>Luan Schons Griebler</strong>
 
 > Sou Desenvolvedor Web Full Stack
 
