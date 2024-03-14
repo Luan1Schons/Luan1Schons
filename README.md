@@ -1,14 +1,12 @@
 ## Olá, meu nome é <strong>Luan Schons Griebler</strong>
 
-> Sou Desenvolvedor Web Full Stack
+> I'm Software Architect
 
-🔭 Atualmente trabalho com T.I
-
-💬 "Comece onde você está, use o que você tem e faça o que você pode."
+🔭 Astronomy and Science Hobby
 
 ----
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <code><img height="32" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/></code>
 <code><img height="32" src="https://img.shields.io/badge/PYTHON-1572B6?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></code>
@@ -32,5 +30,5 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Infos
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luan1schons&show_icons=true)
