@@ -62,6 +62,3 @@
 ![Beanstalkd](https://img.shields.io/badge/Beanstalkd-FFCC00?style=for-the-badge&logo=beanstalk&logoColor=black)
 
 ---
-
-## 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luan1schons&show_icons=true&theme=radical)
