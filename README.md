@@ -53,9 +53,13 @@
     <td width="50%" valign="top">
       <h4>☁️ <a href="https://github.com/Luan1Schons/google-cloud-vm-essentials-cli">Google Cloud VM Essentials CLI</a></h4>
       <p>Ferramenta CLI de automação DevOps projetada para gerenciar, orquestrar e conectar-se com eficiência a máquinas virtuais no Google Cloud Platform (GCP).</p>
+      <a href="https://github.com/Luan1Schons/google-cloud-vm-essentials-cli">
+        <img src="assets/gcvm-demo.gif" alt="GCVM Demo" width="100%" />
+      </a>
       <p>
         <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
         <img src="https://img.shields.io/badge/DevOps-CLI-orange?style=flat-square" alt="DevOps" />
+        <img src="https://img.shields.io/badge/Terminal-VHS%20Demo-blue?style=flat-square" alt="VHS" />
       </p>
     </td>
   </tr>
