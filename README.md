@@ -111,8 +111,13 @@
 #### ⚙️ Backend & Frameworks
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,fastify,express,laravel,symfony,django,flask" alt="Backend & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=nestjs,express,laravel,symfony,django,flask" alt="Backend & Frameworks" />
   </a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Fastify-202020?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" alt="Livewire" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
 </p>
 
 #### 🌐 Frontend & Web Moderna
@@ -121,19 +126,31 @@
     <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,svelte,tailwind,vite" alt="Frontend & UI" />
   </a>
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
 #### 🗄️ Bancos de Dados & Armazenamento
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb,mongodb,redis,neo4j,sqlite,firebase" alt="Bancos de Dados & Cache" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase" alt="Bancos de Dados & Cache" />
   </a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
 </p>
 
 #### 📨 Mensageria, Filas & Event Streaming
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,celery" alt="Mensageria & Filas" />
+    <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" alt="Mensageria & Filas" />
   </a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/BullMQ-CC0000?style=flat-square&logo=redis&logoColor=white" alt="BullMQ" />
 </p>
 
 #### ☁️ Cloud, DevOps & Infraestrutura
@@ -141,6 +158,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,ubuntu,nginx,githubactions,terraform" alt="Cloud & DevOps" />
   </a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="Digital Ocean" />
 </p>
 
 #### 📊 Observabilidade & Ferramentas
